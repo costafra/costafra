@@ -1,16 +1,17 @@
-### Hi there 👋
+# Francisco Costa
+### Web Designer and Developer
+I love designing and developing applications and systems for computers/tablets and smartphones that meets the users needs. When it comes to developing, "Words are not enough" so, check out my portfolio and see some of my work.
 
-<!--
-**costafra/costafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and experience 
+* React
+* React Native
+* HTML, CSS, JS
+* PHP
+* Python
 
-Here are some ideas to get you started:
+## Examples of work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach out!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/costafra)
+
+
